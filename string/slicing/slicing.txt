@@ -1,0 +1,11 @@
+# string slicing allow you to extarct part of string using slicing operatr[:]
+
+#syntax:
+ string[start:end:step]
+
+ # start- by default 0 
+ # end -by default len(string)
+ # step - by decfault 1
+  postive step work left to right and negative work right to left
+
+#
