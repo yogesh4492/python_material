@@ -1,0 +1,24 @@
+1. What is a List?
+
+--A list is a built-in ordered, mutable (changeable), indexable collection in Python
+--It can hold multiple items (elements) in a single variable.
+--Lists can store different data types: integers, floats, strings, booleans, even other lists (nested lists).
+--Defined using square brackets []
+-- example:
+  my_list = [10, "hello", 3.14, True]
+print(my_list)   # [10, 'hello', 3.14, True]
+
+
+2. Characteristics of Lists
+--Characteristics of Lists
+
+1.Ordered → items have a fixed sequence.
+
+2.Indexable → access items by index (0-based).
+
+3.Mutable → you can add, remove, change elements.
+
+4.Heterogeneous → allows mixed data types.
+
+5.Dynamic → size can increase or decrease.
+
